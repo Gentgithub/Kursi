@@ -1,0 +1,41 @@
+
+    
+    
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+    
+}
+
+.phone{
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+
+.envelope{
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+
+.location{
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.main{
+    background-color: blue;
+    display: flex;
+}
+
+.right{
+    background-color: white;
+}
